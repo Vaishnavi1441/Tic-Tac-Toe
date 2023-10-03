@@ -1,2 +1,4 @@
 # Tic-Tac-Toe
-Tic tac toe website
+Tic-Tac-Toe website is a website where users can play game.
+
+
