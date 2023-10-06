@@ -77,6 +77,7 @@ function resetGame() {
         cell.innerText = "";
         cell.style.backgroundColor = "#7187dc";
         // #eee
+        // message.innerText = "Play Again";
     });
     message.innerText = "Player X's turn";
 }
